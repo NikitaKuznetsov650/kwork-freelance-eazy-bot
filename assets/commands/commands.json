@@ -1,0 +1,14 @@
+[
+    {
+        "command": "/start",
+        "description": "Начать"
+    },
+    {
+        "command": "/friends",
+        "description": "Пригласить друга"
+    },
+    {
+        "command": "/refcount",
+        "description": "Сколько пользователей я пригласил"
+    }
+]

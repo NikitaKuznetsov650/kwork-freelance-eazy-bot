@@ -1,0 +1,42 @@
+[
+	{
+		"id": 6822709019,
+		"name": "Андрей",
+		"chat": 6822709019,
+		"sovaBalance": 0,
+		"SVHCBalance": 0,
+		"referralCode": "https://t.me/sdfjklasdfjk_bot?start=6822709019",
+		"referredBy": 0,
+		"isAdmin": false
+	},
+	{
+		"id": 1425448286,
+		"name": "В легких",
+		"chat": 1425448286,
+		"sovaBalance": 0,
+		"SVHCBalance": 0,
+		"referralCode": "https://t.me/sdfjklasdfjk_bot?start=1425448286",
+		"referredBy": 0,
+		"isAdmin": true
+	},
+	{
+		"id": 762100994,
+		"name": "Artem",
+		"chat": 762100994,
+		"sovaBalance": 0,
+		"SVHCBalance": 0,
+		"referralCode": "https://t.me/sdfjklasdfjk_bot?start=762100994",
+		"referredBy": 1425448286,
+		"isAdmin": false
+	},
+	{
+		"id": 544806537,
+		"name": "Eazy",
+		"chat": 544806537,
+		"sovaBalance": 0,
+		"SVHCBalance": 0,
+		"referralCode": "https://t.me/sdfjklasdfjk_bot?start=544806537",
+		"referredBy": 544806537,
+		"isAdmin": false
+	}
+]
